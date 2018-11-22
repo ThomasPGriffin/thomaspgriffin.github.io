@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Tom Griffin
-description: Tom Griffin is a PhD candidate at Drexel University. 
-keywords: Tom, Griffin, Thomas, finance, phd
+description: Tom Griffin is a PhD candidate at Drexel University. This webpage is currently under construction...
+keywords: Tom, Griffin, Thomas, finance, phd, drexel
 ---
 
 Tom Griffin is a PhD candidate at Drexel University
