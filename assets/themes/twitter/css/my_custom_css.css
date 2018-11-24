@@ -16,7 +16,7 @@ a {
 
 a:hover {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #b0c4de;
     text-decoration: none;
 }
 
@@ -26,9 +26,9 @@ a img {
 
 a:hover img {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #b0c4de;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px #b0c4de;
 }
 
 p.center {
@@ -74,7 +74,7 @@ h1, h2, h3, h4 {
 }
 
 .info {
-    background-color: #e7f3fe;
+    background-color: #b0c4de;
     border-left: 6px solid #2196F3;
     padding-left: 10px;
 }
@@ -91,8 +91,8 @@ h1, h2, h3, h4 {
     min-height:40px;
     padding-left:20px;
     padding-right:20px;
-    background-color:#B0C4DE;
-    background-image:-moz-linear-gradient(top, #edffff, #e3ffff);
+    background-color:#b0c4de;
+    background-image:-moz-linear-gradient(top, #b0c4de, #b0c4de);
     background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#edffff), to(#f2f2f2));
     background-image:-webkit-linear-gradient(top, #edffff, #e3ffff);
     background-image:-o-linear-gradient(top, #edffff, #e3ffff);
