@@ -15,7 +15,7 @@ Since the turn of the 21st century, the U.S. has experienced abnormally low IPO 
 
 ### <u>WORKING PAPERS<u>
 
-#### *Creditor Control of Corporate Acquisitions* – with David Becher and Greg Nini
+#### *Creditor Control of Corporate Acquisitions* – with David Becher and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
 We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of private credit
 agreements restrict borrower acquisition decisions. Following a covenant violation, creditors use their
 bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to
