@@ -4,6 +4,8 @@ title: Tom Griffin
 description: Tom Griffin is a PhD Candidate at Drexel University
 keywords: Tom, Griffin, Thomas, finance, phd, drexel
 ---
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+---
 
 <div class="container">
 <h4><a name="contact"></a>Tom Griffin</h4>
@@ -15,8 +17,7 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
             Drexel University<br/>
             Email: tpg43@drexel.edu<br/>
        </div>
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-
+       
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
