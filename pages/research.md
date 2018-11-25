@@ -1,9 +1,3 @@
----
-layout: page
-title: Research
-description: Tom Griffin's research
----
-
 ### <u>JOB MARKET PAPER<u>
 
 #### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181119.pdf)*
