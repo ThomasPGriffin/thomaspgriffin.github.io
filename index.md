@@ -5,7 +5,17 @@ description: Tom Griffin is a PhD Candidate at Drexel University
 keywords: Tom, Griffin, Thomas, finance, phd, drexel
 ---
 
-Tom Griffin is a PhD Candidate at Drexel University. This webpage is currently under construction...
+Tom Griffin
+
+PhD Candidate
+
+LeBow College of Business
+
+Drexel University
+
+3220 Market Street 
+
+Philadelphia, PA 19104
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
