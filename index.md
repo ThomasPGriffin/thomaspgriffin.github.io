@@ -14,8 +14,8 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
             LeBow College of Business<br/>
             Drexel University<br/>
             Email: tpg43@drexel.edu<br/>
-       [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)
        </div>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
