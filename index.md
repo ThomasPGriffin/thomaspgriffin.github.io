@@ -6,17 +6,16 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
 ---
 
 <div class="container">
-<h4><a name="contact"></a>z</h4>
+<h4><a name="contact"></a>Tom Griffin</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Tom Griffin<br/>
             PhD Candidate<br/>
             LeBow College of Business<br/>
             Drexel University<br/>
             Email: tpg43@drexel.edu<br/>
-            [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-        </div>
+       [Curriculum Vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)
+       </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
