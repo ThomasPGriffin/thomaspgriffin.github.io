@@ -25,10 +25,10 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
 </div>
 
 ---
-div {
+<div {
     text-align: justify;
     text-justify: inter-word;
-}
+}>
 
 I am a Finance PhD Candidate in the LeBow College of Business at Drexel University. My research lies at the intersection of corporate finance and international trade.<br/>
 
