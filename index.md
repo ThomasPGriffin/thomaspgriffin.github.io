@@ -34,6 +34,7 @@ I am also broadly interested in corporate governance. My research in this area s
 
 My work has been presented at selective conferences, such as the *Texas A&M Young Scholars Finance Consortium*, *Cass M&A Research Centre Conference*, and the *American Law and Economics Association Annual Meeting*, and featured on *Columbia Law School’s Blue Sky Blog* and the *Harvard Law School Program on Corporate Governance and Financial Regulation.*
 
+---
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
