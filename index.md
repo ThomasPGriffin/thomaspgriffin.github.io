@@ -6,11 +6,10 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
 
 ---
 <div class="container">
-<h4><a name="contact"></a></h4>
+<h4><a name="contact"></a>Tom Griffin</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Tom Griffin
             PhD Candidate<br/>
             LeBow College of Business<br/>
             Drexel University<br/>
