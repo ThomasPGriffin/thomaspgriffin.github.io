@@ -10,7 +10,7 @@ I am interested in how globalization affects corporate investment and financing 
 
 I am also broadly interested in corporate governance. My research in this area studies the evolution of creditor control rights over the past two decades and examines how creditors use these rights to influence corporate outcomes.<br/>
 
-My work has been featured on *Columbia Law School’s Blue Sky Blog* and the *Harvard Law School Program on Corporate Governance and Financial Regulation* and presented at selective conferences, such as the *Texas A&M Young Scholars Finance Consortium*, *Cass M&A Research Centre Conference*, and *American Law and Economics Association Annual Meeting*.
+My work has been presented at selective conferences, such as the *Texas A&M Young Scholars Finance Consortium*, *Cass M&A Research Centre Conference*, and the *American Law and Economics Association Annual Meeting*, and featured on *Columbia Law School’s Blue Sky Blog* and the *Harvard Law School Program on Corporate Governance and Financial Regulation.*
 
 ---
 <div class="container">
