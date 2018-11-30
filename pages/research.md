@@ -6,8 +6,8 @@ description: Tom Griffin's research
 
 ### <u>JOB MARKET PAPER<u>
 
-#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181119.pdf)*
-Since the turn of the 21st century, the U.S. has experienced abnormally low IPO activity, high delisting rates, and increased levels of industry concentration. This paper proposes globalization as a contributing factor behind these trends. Using a U.S. tariff policy change that increased trade with China, I find that exposed industries suffered a drop in the number of listed firms and a spike in concentration. Firm-level analyses show that the trade shock impeded the entry and performance of small manufacturers but did not adversely impact large multinational corporations, consistent with heterogeneous firm models of trade. These findings suggest that globalization contributed to recent trends in the public U.S. equity market by disproportionately harming small firms.
+#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181130.pdf)*
+This paper studies a U.S. tariff policy change that increased trade with China and shows that manufacturing industries exposed to the “China trade shock” experienced abnormally low IPO activity, high delisting rates, and increased levels of concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinational corporations. Moreover, stock price reactions to the policy change, and threat of reversal by President Trump eighteen years later, imply that globalization increases the value of large firms and destroys the value of small firms. These findings suggest that globalization contributed to recent trends in the public U.S. equity market by disproportionately harming small firms.
 
 ### <u>WORKING PAPERS<u>
 
