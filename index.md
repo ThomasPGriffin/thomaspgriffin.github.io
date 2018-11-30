@@ -29,7 +29,7 @@ keywords: Tom, Griffin, Thomas, finance, phd, drexel
     
 <p>I am a Finance PhD Candidate in the LeBow College of Business at Drexel University. My research lies at the intersection of corporate finance and international trade.</p>
 
-<p>I am interested in how globalization affects corporate investment and financing decisions. My job market paper explores a U.S. tariff policy change that increased trade with China and shows that manufacturing industries exposed to the “China trade shock” experienced abnormally low IPO activity, high delisting rates, and increased levels of concentration.</p>
+<p>I am interested in how globalization affects corporate investment and financing decisions. My job market paper studies a U.S. tariff policy change that increased trade with China and shows that manufacturing industries exposed to the “China trade shock” experienced abnormally low IPO activity, high delisting rates, and increased levels of concentration.</p>
 
 <p>I am also broadly interested in corporate governance. My research in this area studies the evolution of creditor control rights over the past two decades and examines how creditors use these rights to influence corporate outcomes.</p>
 
