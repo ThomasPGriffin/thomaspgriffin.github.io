@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 {% seo %}
 
 # This is the default format.
