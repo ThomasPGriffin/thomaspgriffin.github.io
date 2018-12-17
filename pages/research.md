@@ -6,9 +6,9 @@ description: Tom Griffin's research
 
 ### <u>JOB MARKET PAPER<u>
 
-#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181205.pdf)*
+#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181217.pdf)*
 <div align="justify"> 
-I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinationals. Event study analysis of the policy change and threat of reversal by President Trump implies that trade liberalization can either create or destroy value depending on firm size. These findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.
+I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinationals. Stock price reactions to the policy change and threat of reversal by President Trump imply that trade liberalization increases the value of large firms and destroys the value of small firms. These findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.
 </div>
 
 ### <u>WORKING PAPERS<u>
