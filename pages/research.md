@@ -14,7 +14,7 @@ I show that a tariff policy change that increased trade with China led to a decl
 ### <u>WORKING PAPERS<u>
 
 #### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20181120.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
-##### Revise and Resubmit at the *Review of Financial Studies*
+#### Revise and Resubmit at the *Review of Financial Studies*
 <div align="justify"> 
 We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of private credit
 agreements restrict borrower acquisition decisions. Following a covenant violation, creditors use their
