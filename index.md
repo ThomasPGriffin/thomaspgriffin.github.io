@@ -2,7 +2,7 @@
 layout: frontpage
 title: Tom Griffin
 description: Tom Griffin is a PhD Candidate at Drexel University
-keywords: Tom, Griffin, Thomas, finance, phd, Drexel
+keywords: Tom, Griffin, Thomas, finance, phd, Drexel, Villanova
 
 ---
 <div class="container">
@@ -33,7 +33,9 @@ keywords: Tom, Griffin, Thomas, finance, phd, Drexel
 
 <p>I am also broadly interested in corporate governance. My research in this area studies the evolution of creditor control rights over the past two decades and examines how creditors use these rights to influence corporate outcomes.</p>
 
-<p>My work has been presented at selective conferences, such as the <i>Texas A&M Young Scholars Finance Consortium</i>, <i>Cass M&A Research Centre Conference</i>, and the <i>American Law and Economics Association Annual Meeting</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
+<p>My work has been presented at selective conferences, such as <i>WFA<i>, <i>FIRS<i>, and the <i>Texas A&M Young Scholars Finance Consortium</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
+
+<p>I am excited to join Villanova University as an Assistant Professor of Finance in Fall 2019!</p>
 
 </div>
 ---
