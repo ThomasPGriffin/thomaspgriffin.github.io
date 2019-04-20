@@ -18,7 +18,7 @@ keywords: Tom, Griffin, Thomas, finance, phd, Drexel, Villanova
        
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+            <img src="../assets/GriffinT_headshot.jpg"
                   title="Tom Griffin" alt="Tom Griffin"/></a>
         </div>
     </div>
