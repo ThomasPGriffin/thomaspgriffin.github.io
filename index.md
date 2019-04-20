@@ -42,7 +42,7 @@ keywords: Tom, Griffin, Thomas, finance, phd, Drexel, Villanova
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/GriffinT_CV.pdf">CV</a></li>
           <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2172098">SSRN</a></li>
           <li><a href="https://www.lebow.drexel.edu/people/thomasgriffin">Drexel Webpage</a></li>
       </ul>
