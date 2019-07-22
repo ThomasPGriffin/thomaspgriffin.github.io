@@ -4,13 +4,6 @@ title: Research
 description: Tom Griffin's research
 ---
 
-### <u>JOB MARKET PAPER<u>
-
-#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181217.pdf)*
-<div align="justify"> 
-I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinationals. Stock price reactions to the policy change and threat of reversal by President Trump imply that trade liberalization increases the value of large firms and destroys the value of small firms. These findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.
-</div>
-
 ### <u>WORKING PAPERS<u>
 
 #### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20181120.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
@@ -30,9 +23,14 @@ shareholders by reducing managerial agency costs.
 Over the last twenty years, financial covenants in syndicated loan agreements have steadily become looser. The result is that the fraction of U.S. public companies reporting a violation of a loan covenant during a given year decreased from over 12% in 1997 to less than 5% in 2016. Although the decline accelerates in recent years, the trend is present prior to the recent financial crisis. The trend cannot be explained by changes in the composition of public firms, a decrease in the usage of debt, or a long series of positive ex-post outcomes for firms. Nor does the rise in institutional lenders or an increased supply of credit entirely explain the decline. The loosening of covenants is widespread among all types of borrowers and loans and accompanies an increase in loan spreads over the period, suggesting that the trend reflects fundamental changes in the costs and benefits of tight covenants.
 </div>
 
-#### *[Shareholder Litigation and the Information Environment]({{ BASE_PATH}}/pages/bfg_20181130.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
+#### *[Shareholder Litigation and the Information Environment]({{ BASE_PATH}}/pages/bfg_20190722.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
 <div align="justify"> 
-Does the threat of shareholder litigation affect firms’ information environments? We find that a Delaware court ruling that strengthened shareholder litigation rights generated positive abnormal returns. We also examine staggered adoptions of universal demand (UD) laws, which weakened shareholders’ ability to sue corporate officers. After UD laws pass, financial statements become more opaque, analyst dispersion and forecast error increases, and the trading environment deteriorates. Moreover, firms incorporated in UD states are less likely to face regulatory enforcements although insider trading profits are higher. Our results suggest that stronger shareholder litigation rights increase firm value, improve transparency, and mitigate agency problems.
+Prior research argues that universal demand (UD) laws, which weaken shareholders’ litigation rights, incentivize managers to report more and better-quality information. This view relies on post-UD increases in the length and frequency of voluntary disclosure. We find that the increase in disclosure quantity coincides with a decrease in the quality of both voluntary and mandatory disclosure, leading to greater information asymmetry among analysts and in the trading environment. Moreover, managers appear to benefit from the reduced transparency through more profitable insider trades. Therefore, in contrast with prior work, we conclude that corporate information environments deteriorate when shareholder litigation rights decline.
+</div>
+
+#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181217.pdf)*
+<div align="justify"> 
+I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinationals. Stock price reactions to the policy change and threat of reversal by President Trump imply that trade liberalization increases the value of large firms and destroys the value of small firms. These findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.
 </div>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
