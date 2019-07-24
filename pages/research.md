@@ -28,7 +28,7 @@ Over the last twenty years, financial covenants in syndicated loan agreements ha
 Prior research argues that universal demand (UD) laws, which weaken shareholders’ litigation rights, incentivize managers to report more and better-quality information. This view relies on post-UD increases in the length and frequency of voluntary disclosure. We find that the increase in disclosure quantity coincides with a decrease in the quality of both voluntary and mandatory disclosure, leading to greater information asymmetry among analysts and in the trading environment. Moreover, managers appear to benefit from the reduced transparency through more profitable insider trades. Therefore, in contrast with prior work, we conclude that corporate information environments deteriorate when shareholder litigation rights decline.
 </div>
 
-#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20181217.pdf)*
+#### *[Globalization and U.S. Industry Concentration]({{ BASE_PATH}}/pages/griffin_jmp_20190724.pdf)*
 <div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small manufacturers but did not adversely impact large multinationals. Stock price reactions to the policy change and threat of reversal by President Trump imply that trade liberalization increases the value of large firms and destroys the value of small firms. These findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.
 </div>
