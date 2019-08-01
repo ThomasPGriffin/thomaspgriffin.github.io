@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Tom Griffin
-description: Tom Griffin is a PhD Candidate at Drexel University
-keywords: Tom, Griffin, Thomas, finance, phd, Drexel, Villanova
+description: Tom Griffin is an Assistant Professor of Finance at Villanova University
+keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 ---
 <div class="container">
@@ -10,10 +10,10 @@ keywords: Tom, Griffin, Thomas, finance, phd, Drexel, Villanova
 
     <div class="row-fluid">
         <div class="span5">
-            PhD Candidate<br/>
-            LeBow College of Business<br/>
-            Drexel University<br/>
-            Email: tpg43@drexel.edu<br/>
+            Assistant Professor of Finance<br/>
+            Villanova School of Business<br/>
+            Villanova University<br/>
+            Email: thomas.griffin@villanova.edu<br/>
        </div>
        
         <div class="span2">
