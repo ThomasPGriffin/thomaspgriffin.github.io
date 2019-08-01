@@ -27,15 +27,11 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 ---
 <div align="justify"> 
     
-<p>I am a Finance PhD Candidate in the LeBow College of Business at Drexel University. My research lies at the intersection of corporate finance and international trade.</p>
+<p>I am an Assistant Professor of Finance at Villanova University. I research issues in empirical corporate finance, with a particular interest in corporate governance and creditor control rights. My papers in this area study the evolution of creditor control rights over the past two decades and examine how creditors use these rights to influence corporate outcomes.</p>
 
-<p>I am interested in how globalization affects corporate investment and financing decisions. My job market paper shows that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. My findings suggest that globalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms. </p>
+<p>I am also interested in how globalization affects corporate investment and financing decisions. My research shows that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. These findings suggest that trade liberalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms. </p>
 
-<p>I am also broadly interested in corporate governance. My research in this area studies the evolution of creditor control rights over the past two decades and examines how creditors use these rights to influence corporate outcomes.</p>
-
-<p>My work has been presented at selective conferences, such as <i>WFA</i>, <i>FIRS</i>, and the <i>Texas A&M Young Scholars Finance Consortium</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
-
-<p>I am excited to join Villanova University as an Assistant Professor of Finance in Fall 2019!</p>
+<p>My work has been presented at selective conferences, such as <i>WFA</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference<i>, and the <i>Texas A&M Young Scholars Finance Consortium</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
 
 </div>
 ---
@@ -44,7 +40,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/GriffinT_CV.pdf">CV</a></li>
           <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2172098">SSRN</a></li>
-          <li><a href="https://www.lebow.drexel.edu/people/thomasgriffin">Drexel Webpage</a></li>
+          <li><a href="https://www1.villanova.edu/villanova/business/facultyresearch/facultydepartment/biodetail.html?mail=thomas.griffin@villanova.edu&xsl=bio_long">Villanova Webpage</a></li>
       </ul>
   </div>
 </div>
