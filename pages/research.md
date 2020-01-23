@@ -6,16 +6,10 @@ description: Tom Griffin's research
 
 ### <u>WORKING PAPERS<u>
 
-#### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20181120.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
+#### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20200123.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
 ##### Revise and Resubmit at the *Review of Financial Studies*
 <div align="justify"> 
-We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of private credit
-agreements restrict borrower acquisition decisions. Following a covenant violation, creditors use their
-bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to
-earn negative announcement returns. Firms that do announce an acquisition while in violation of a
-covenant earn 1.8% higher stock returns, on average, with the effect concentrated among firms with weak
-external governance. We conclude that creditors provide valuable corporate governance that benefits
-shareholders by reducing managerial agency costs.
+We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of private credit agreements restrict borrower acquisition decisions. Following a covenant violation, creditors use their bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to earn negative announcement returns. Firms that do announce an acquisition while in violation of a covenant earn 1.8% higher stock returns, on average, and do not pursue less risky deals. We conclude that creditors use contractual rights and the loan renegotiation process to limit value-destroying acquisitions driven by managerial agency problems.
 </div>
 
 #### *[Losing Control? The 20-Year Decline in Loan Covenant Restrictions]({{ BASE_PATH}}/pages/violTrend_20191118.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
