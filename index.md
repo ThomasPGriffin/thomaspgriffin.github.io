@@ -29,9 +29,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
     
 <p>I am an Assistant Professor of Finance at Villanova University. I research issues in empirical corporate finance, with a particular interest in corporate governance and creditor control rights. My papers in this area study the evolution of creditor control rights over the past two decades and examine how creditors use these rights to influence corporate outcomes.</p>
 
-<p>I am also interested in how globalization affects corporate investment and financing decisions. My research shows that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. These findings suggest that trade liberalization contributed to recent trends in the U.S. equity market by disproportionately harming small firms.</p>
-
-<p>My work has been presented at selective conferences, such as <i>WFA</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, and the <i>Texas A&M Young Scholars Finance Consortium</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
+<p>My work has been presented at selective conferences, such as <i>WFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
 
 </div>
 ---
