@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Tom Griffin
-description: Tom Griffin is an Assistant Professor of Finance at Villanova University
+description: Tom Griffin is an Assistant Professor of Finance & Real Estate at Villanova University
 keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 ---
@@ -10,7 +10,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
     <div class="row-fluid">
         <div class="span5">
-            Assistant Professor of Finance<br/>
+            Assistant Professor of Finance & Real Estate<br/>
             Villanova School of Business<br/>
             Villanova University<br/>
             Email: thomas.griffin@villanova.edu<br/>
