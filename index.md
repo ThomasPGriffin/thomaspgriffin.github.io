@@ -38,7 +38,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/GriffinT_CV.pdf">CV</a></li>
           <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2172098">SSRN</a></li>
-          <li><a href="https://www1.villanova.edu/villanova/business/facultyresearch/facultydepartment/biodetail.html?mail=thomas.griffin@villanova.edu&xsl=bio_long">Villanova Webpage</a></li>
+          <li><a href="https://www1.villanova.edu/university/business/faculty-and-research/faculty-by-department/biodetail.html?mail=thomas.griffin@villanova.edu&xsl=bio_long">Villanova Webpage</a></li>
       </ul>
   </div>
 </div>
