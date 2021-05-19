@@ -31,6 +31,8 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 <p>My work has been published in the <i>Review of Financial Studies</i> and presented at selective conferences, such as <i>AFA</i>, <i>WFA</i>, <i>EFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
 
+<p>If you would like to discuss corporate debt research and current events or collaborate on a project, please contact me at thomas.griffin@villanova.edu.</p>
+
 </div>
 ---
 <div class="navbar">
