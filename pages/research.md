@@ -4,13 +4,15 @@ title: Research
 description: Tom Griffin's research
 ---
 
-### <u>WORKING PAPERS<u>
+### <u>Publications<u>
 
 #### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20200918.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
-##### Revise and Resubmit at the *Review of Financial Studies*
+##### Forthcoming at the *Review of Financial Studies*
 <div align="justify"> 
 We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of loan agreements include restrictions that limit borrower acquisition decisions throughout the life of the contract. Following a financial covenant violation, creditors use their bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to earn negative announcement returns. Firms that do announce an acquisition after violating a financial covenant earn 1.8% higher stock returns, on average, and do not pursue less risky deals. We conclude that creditors use contractual rights and the renegotiation process to limit value-destroying acquisitions driven by managerial agency problems.
 </div>
+
+### <u>WORKING PAPERS<u>
 
 #### *[Losing Control? The 20-Year Decline in Loan Covenant Restrictions]({{ BASE_PATH}}/pages/violTrend_20191118.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
 <div align="justify"> 
