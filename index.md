@@ -27,9 +27,9 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 ---
 <div align="justify"> 
     
-<p>I am an Assistant Professor of Finance & Real Estate at Villanova University. I research issues in empirical corporate finance, with a particular interest in corporate governance and creditor control rights. My papers in this area study the evolution of loan covenants over the past two decades and examine how creditors use these rights to influence corporate outcomes.</p>
+<p>I am an Assistant Professor of Finance & Real Estate at Villanova University. I research issues in empirical corporate finance, with a particular interest in corporate governance and creditor control rights. My papers in this area study the evolution of loan covenants over the past two decades and examine how creditors use these rights to influence corporate outcomes. </p>
 
-<p>My work has been accepted for publication at the </i>Review of Financial Studies</i> and presented at selective conferences, such as <i>AFA</i>, <i>WFA</i>, <i>EFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
+<p>My work has been published in the <i>Review of Financial Studies</i> and presented at selective conferences, such as <i>AFA</i>, <i>WFA</i>, <i>EFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
 
 </div>
 ---
