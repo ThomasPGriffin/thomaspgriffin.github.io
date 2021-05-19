@@ -4,7 +4,7 @@ title: Research
 description: Tom Griffin's research
 ---
 
-### <u>Publications<u>
+### <u>PUBLICATIONS<u>
 
 #### *[Creditor Control of Corporate Acquisitions]({{ BASE_PATH}}/pages/bgn_20200918.pdf)* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
 ##### Forthcoming at the *Review of Financial Studies*
