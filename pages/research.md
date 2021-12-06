@@ -14,9 +14,9 @@ We examine the impact of creditor control rights on corporate acquisitions. Near
 
 ### <u>WORKING PAPERS<u>
 
-#### *[Losing Control? The 20-Year Decline in Loan Covenant Restrictions]({{ BASE_PATH}}/pages/violTrend_20191118.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
+#### *[Losing Control? The 20-Year Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_202112.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
 <div align="justify"> 
-This paper finds that lenders today rely on less restrictive financial covenants compared to 20 years ago, resulting in a nearly 70% drop in the annual proportion of U.S. public firms reporting a covenant violation. To study this decline, we develop a simple model of optimal covenant design that balances the costs associated with violations that occur when a firm is not in danger of financial distress (“false positives”) with the costs of failing to detect a borrower in danger of financial distress (“false negatives”). We present evidence that lenders have eased the restrictiveness of covenants in ways that greatly reduce the ratio of false positives relative to false negatives, including by switching to covenant packages with higher signal-to-noise ratios.
+The annual proportion of U.S. public firms that report a financial covenant violation fell nearly 70% between 1997 and 2016. To understand this trend, we develop a model of covenant design that shows the optimal threshold varies with covenants’ ability to discriminate between distressed and non-distressed borrowers and with the relative costs associated with screening incorrectly. We document a steady improvement in covenants’ ability to identify distressed borrowers. However, the dramatic fall in violations is best attributed to an increased willingness to trade off early detection of some distressed borrowers in exchange for fewer false-positive violations, particularly since 2008-09.
 </div>
 
 #### *[Shareholder Litigation Risk and the Information Environment: Revisiting Evidence from Two Natural Experiments]({{ BASE_PATH}}/pages/bfg_20210628.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
@@ -27,6 +27,16 @@ A court case that reduced the threat of securities class action litigation led t
 #### *[Where have all the IPOs Gone? Trade Liberalization and the Changing Nature of US Corporations]({{ BASE_PATH}}/pages/griffin_jmp_20210330.pdf)*
 <div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small domestic manufacturers but did not adversely impact large multinationals. In addition, stock price reactions to the policy change and threat of reversal imply that trade liberalization creates or destroys value depending on firm size. These findings suggest that recent trends in the U.S. public equity market are driven, in part, by fundamental changes in the global competitive landscape.
+</div>
+
+#### *[Corporate Discrimination, Competition, and Shareholder Wealth]({{ BASE_PATH}}/pages/dgh_draft_20211119.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
+<div align="justify"> 
+We study novel data on the universe of employment discrimination lawsuits filed in federal court against U.S. public corporations between 1992 and 2018. Shareholder value drops by $30 million, on average, in the three days surrounding a discrimination lawsuit filing. However, we find no evidence that discrimination rates are related to product market competition, financial resources, governance, or CEO turnover. Instead, workplace discrimination is highly persistent and correlates with slow-moving proxies of firm culture, such as headquarter location. These results suggest that corporate discrimination is largely determined by the beliefs and preferences of employees, rather than a firm’s economic environment.
+</div>
+  
+#### *[Does Regulatory Exposure Create M&A Synergies?]({{ BASE_PATH}}/pages/fgk_draft_20211118.pdf)* – with <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a> and <a href="https://sites.google.com/view/jkalmenovitz/home">Joseph Kalmenovitz</a>
+<div align="justify"> 
+We study the impact of regulation on acquisition investment, using a novel firm-level measure of exposure to all federal regulations. Highly regulated companies issue more acquisition bids, invest more in those transactions, and earn higher M&A announcement returns. Moreover, highly regulated acquirers exhibit better long-term performance, greater M&A synergies, and a significant reduction in their regulatory exposure after merger completion. The benefits are stronger in deals with small transaction values and in those involving private targets. Overall, our findings uncover a new link between M&A and regulation, highlighting synergy opportunities which materially affect corporate investment choices.
 </div>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
