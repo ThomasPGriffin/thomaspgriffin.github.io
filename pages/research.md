@@ -6,8 +6,7 @@ description: Tom Griffin's research
 
 ### <u>PUBLICATIONS<u>
 
-#### *<a href="https://academic.oup.com/rfs/article/35/4/1897/6311283?guestAccessKey=6bc7321f-c9c8-46eb-ae3c-4d2f359635f0">Creditor Control of Corporate Acquisitions</a>* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>
-##### Forthcoming at the *Review of Financial Studies*
+#### *<a href="https://academic.oup.com/rfs/article/35/4/1897/6311283?guestAccessKey=6bc7321f-c9c8-46eb-ae3c-4d2f359635f0">Creditor Control of Corporate Acquisitions</a>* – with <a href="https://www.lebow.drexel.edu/people/davidbecher">David Becher</a> and <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a>. 2022. <b><i>Review of Financial Studies</i></b> 35(4): 1897-1932.
 <div align="justify"> 
 We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of loan agreements include restrictions that limit borrower acquisition decisions throughout the life of the contract. Following a financial covenant violation, creditors use their bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to earn negative announcement returns. Firms that do announce an acquisition after violating a financial covenant earn 1.8% higher stock returns, on average, and do not pursue less risky deals. We conclude that creditors use contractual rights and the renegotiation process to limit value-destroying acquisitions driven by managerial agency problems.
 </div>
@@ -15,6 +14,7 @@ We examine the impact of creditor control rights on corporate acquisitions. Near
 ### <u>WORKING PAPERS<u>
 
 #### *[Losing Control? The 20-Year Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20211208.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
+##### Revise and Resubmit at the <b><i>Journal of Finance</i></b>
 <div align="justify"> 
 The annual proportion of U.S. public firms that report a financial covenant violation fell nearly 70% between 1997 and 2016. To understand this trend, we develop a model of covenant design that shows the optimal threshold varies with covenants’ ability to discriminate between distressed and non-distressed borrowers and with the relative costs associated with screening incorrectly. We document a steady improvement in covenants’ ability to identify distressed borrowers. However, the dramatic fall in violations is best attributed to an increased willingness to forego early detection of marginally distressed borrowers in exchange for fewer inconsequential violations, particularly since 2008-09.
 </div>
