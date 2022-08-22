@@ -18,6 +18,11 @@ We examine the impact of creditor control rights on corporate acquisitions. Near
 <div align="justify"> 
 The annual proportion of U.S. public firms that report a financial covenant violation fell nearly 70% between 1997 and 2016. To understand this trend, we develop a model of covenant design that shows the optimal threshold varies with covenants’ ability to discriminate between distressed and non-distressed borrowers and with the relative costs associated with screening incorrectly. We document a steady improvement in covenants’ ability to identify distressed borrowers. However, the dramatic fall in violations is best attributed to an increased willingness to forego early detection of marginally distressed borrowers in exchange for fewer inconsequential violations, particularly since 2008-09.
 </div>
+  
+ #### *[A culture of discrimination: Evidence on the causes and consequences of civil rights litigation against U.S. corporations]({{ BASE_PATH}}/pages/dgh_draft_20220822.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
+<div align="justify"> 
+Between 1992 and 2018, U.S. public corporations faced over 38,000 federal civil rights lawsuits. We find that the frequency of discrimination litigation varies with societal attitudes toward race and gender and intensifies after a rightward shift in local news slant. However, studying two well-established natural experiments, we find no evidence that economic forces provide a source of discipline. Consequences are small: shareholder value drops by $8.25 million, on average, around a lawsuit, with no effect on CEO turnover. We conclude that corporate discrimination is largely determined by the cultural values of employees, rather than a firm’s economic environment.
+</div>
 
 #### *[Shareholder Litigation Risk and the Information Environment: Revisiting Evidence from Two Natural Experiments]({{ BASE_PATH}}/pages/bfg_20220427.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
 <div align="justify"> 
@@ -27,11 +32,6 @@ A court case that reduced the threat of securities class action litigation led t
 #### *[Where have all the IPOs Gone? Trade Liberalization and the Changing Nature of US Corporations]({{ BASE_PATH}}/pages/griffin_jmp_20210330.pdf)*
 <div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small domestic manufacturers but did not adversely impact large multinationals. In addition, stock price reactions to the policy change and threat of reversal imply that trade liberalization creates or destroys value depending on firm size. These findings suggest that recent trends in the U.S. public equity market are driven, in part, by fundamental changes in the global competitive landscape.
-</div>
-
-#### *[Corporate Discrimination, Competition, and Shareholder Wealth]({{ BASE_PATH}}/pages/dgh_draft_20211119.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
-<div align="justify"> 
-We study novel data on the universe of employment discrimination lawsuits filed in federal court against U.S. public corporations between 1992 and 2018. Shareholder value drops by $30 million, on average, in the three days surrounding a discrimination lawsuit filing. However, we find no evidence that discrimination rates are related to product market competition, financial resources, governance, or CEO turnover. Instead, workplace discrimination is highly persistent and correlates with slow-moving proxies of firm culture, such as headquarter location. These results suggest that corporate discrimination is largely determined by the beliefs and preferences of employees, rather than a firm’s economic environment.
 </div>
   
 #### *[Does Regulatory Exposure Create M&A Synergies?]({{ BASE_PATH}}/pages/fgk_draft_20211118.pdf)* – with <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a> and <a href="https://sites.google.com/view/jkalmenovitz/home">Joseph Kalmenovitz</a>
