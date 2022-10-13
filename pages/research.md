@@ -20,14 +20,14 @@ The annual proportion of U.S. public firms that report a financial covenant viol
 </div>
 
 #### *[Where Have All the IPOs Gone? Trade Liberalization and the Changing Nature of U.S. Corporations]({{ BASE_PATH}}/pages/griffin_jmp_20220902.pdf)*
-<div align="justify"> 
 ##### Revise and Resubmit at the <b><i>Journal of Financial and Quantitative Analysis</i></b>
+<div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small domestic manufacturers but did not adversely impact large multinationals. In addition, stock price reactions to the policy change and threat of reversal imply that trade liberalization creates or destroys value depending on firm size. These findings suggest that recent trends in the U.S. public equity market are driven, in part, by fundamental changes in the global competitive landscape.
 </div>
  
 #### *[Shareholder Litigation Risk and the Information Environment: Revisiting Evidence from Two Natural Experiments]({{ BASE_PATH}}/pages/bfg_20221004.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
-<div align="justify"> 
 ##### Revise and Resubmit at the <b><i>Journal of Corporate Finance</i></b>
+<div align="justify"> 
 A court case that reduced securities class action litigation risk led to less frequent voluntary disclosure but did not significantly alter information asymmetry among market participants. Conversely, state laws that reduced derivative litigation risk led to more frequent voluntary disclosure but resulted in significantly higher information asymmetry. To reconcile these differences, we highlight that securities class action suits address disclosure, while derivative suits address both disclosure and operating decisions, and examine the effect on firm operations. Our results suggest that the observed effect of derivative litigation risk on the information environment is primarily driven by concomitant changes in firm operations.
 </div>
 
