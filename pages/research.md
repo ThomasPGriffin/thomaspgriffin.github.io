@@ -13,10 +13,10 @@ We examine the impact of creditor control rights on corporate acquisitions. Near
 
 ### <u>WORKING PAPERS<u>
 
-#### *[Losing Control? The 20-Year Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20211208.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
+#### *[Losing Control? The Two-Decade Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20230915.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
 ##### Revise and Resubmit at the <b><i>Journal of Finance</i></b>
 <div align="justify"> 
-The annual proportion of U.S. public firms that report a financial covenant violation fell nearly 70% between 1997 and 2016. To understand this trend, we develop a model of covenant design that shows the optimal threshold varies with covenants’ ability to discriminate between distressed and non-distressed borrowers and with the relative costs associated with screening incorrectly. We document a steady improvement in covenants’ ability to identify distressed borrowers. However, the dramatic fall in violations is best attributed to an increased willingness to forego early detection of marginally distressed borrowers in exchange for fewer inconsequential violations, particularly since 2008-09.
+The annual proportion of U.S. public firms that reported a financial covenant violation fell roughly 70% between 1997 and 2019. To understand this trend, we develop an estimable model of covenant design that depends on the ability to discriminate between distressed and non-distressed borrowers and the relative costs associated with screening incorrectly. We find the drop in violations is best explained by an increased willingness to forego early detection of distressed borrowers in exchange for fewer inconsequential violations, which we attribute mostly to a shift in the composition of public firms and partly to heightened investor sentiment during the 2010s.
 </div>
 
 #### *[Where Have All the IPOs Gone? Trade Liberalization and the Changing Nature of U.S. Corporations]({{ BASE_PATH}}/pages/ipo_decline_20230911.pdf)*
