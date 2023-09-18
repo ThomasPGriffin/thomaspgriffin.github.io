@@ -11,6 +11,11 @@ description: Tom Griffin's research
 We examine the impact of creditor control rights on corporate acquisitions. Nearly 75% of loan agreements include restrictions that limit borrower acquisition decisions throughout the life of the contract. Following a financial covenant violation, creditors use their bargaining power to tighten these restrictions and limit acquisition activity, particularly deals expected to earn negative announcement returns. Firms that do announce an acquisition after violating a financial covenant earn 1.8% higher stock returns, on average, and do not pursue less risky deals. We conclude that creditors use contractual rights and the renegotiation process to limit value-destroying acquisitions driven by managerial agency problems.
 </div>
 
+#### *[Shareholder Litigation Risk and the Information Environment: Revisiting Evidence from Two Natural Experiments]({{ BASE_PATH}}/pages/bfg_20230505.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>. 2023. <b><i>Journal of Corporate Finance</i></b>, Forthcoming.
+<div align="justify"> 
+A court case that reduced securities class action litigation risk led to less frequent voluntary disclosure but did not significantly alter information asymmetry among market participants. Conversely, state laws that reduced derivative litigation risk led to more frequent voluntary disclosure but resulted in significantly higher information asymmetry. To reconcile these differences, we highlight that 10b-5 securities class actions address disclosure, while derivative suits can address broader corporate wrongdoing, leading to differential effects on firm operations. Our results suggest that the observed effect of derivative litigation risk on the information environment is primarily driven by concomitant changes in firm operations.
+</div>
+
 ### <u>WORKING PAPERS<u>
 
 #### *[Losing Control? The Two-Decade Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20230915.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
@@ -23,12 +28,6 @@ The annual proportion of U.S. public firms that reported a financial covenant vi
 ##### Revise and Resubmit at the <b><i>Journal of Financial and Quantitative Analysis</i></b>
 <div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small domestic manufacturers but did not adversely impact large multinationals. In addition, stock price reactions to the tariff policy change and threat of reversal imply that trade liberalization creates or destroys value depending on firm size. These findings suggest that recent trends in the U.S. public equity market are driven, in part, by fundamental changes in the global competitive landscape.
-</div>
- 
-#### *[Shareholder Litigation Risk and the Information Environment: Revisiting Evidence from Two Natural Experiments]({{ BASE_PATH}}/pages/bfg_20230505.pdf)* – with <a href="https://sites.google.com/site/audralboone/home?authuser=0">Audra Boone</a> and <a href="https://www.lebow.drexel.edu/people/eliezerfich">Eliezer Fich</a>
-##### Revise and Resubmit at the <b><i>Journal of Corporate Finance</i></b>
-<div align="justify"> 
-A court case that reduced securities class action litigation risk led to less frequent voluntary disclosure but did not significantly alter information asymmetry among market participants. Conversely, state laws that reduced derivative litigation risk led to more frequent voluntary disclosure but resulted in significantly higher information asymmetry. To reconcile these differences, we highlight that 10b-5 securities class actions address disclosure, while derivative suits can address broader corporate wrongdoing, leading to differential effects on firm operations. Our results suggest that the observed effect of derivative litigation risk on the information environment is primarily driven by concomitant changes in firm operations.
 </div>
 
 #### *[A Culture of Discrimination: Evidence on the Causes and Consequences of Civil Rights Litigation Against U.S. Corporations]({{ BASE_PATH}}/pages/dgh_draft_20220822.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
