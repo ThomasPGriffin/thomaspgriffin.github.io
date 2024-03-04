@@ -6,8 +6,7 @@ description: Tom Griffin's research
 
 ### <u>PUBLICATIONS<u>
 
-#### *[Losing Control? The Two-Decade Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20230915.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>.
-##### 2024. <b><i>Journal of Finance</i></b> Forthcoming.
+#### *[Losing Control? The Two-Decade Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20230915.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>. 2024. <b><i>Journal of Finance</i></b> Forthcoming.
 <div align="justify"> 
 The annual proportion of U.S. public firms that reported a financial covenant violation fell roughly 70% between 1997 and 2019. To understand this trend, we develop an estimable model of covenant design that depends on the ability to discriminate between distressed and non-distressed borrowers and the relative costs associated with screening incorrectly. We find the drop in violations is best explained by an increased willingness to forego early detection of distressed borrowers in exchange for fewer inconsequential violations, which we attribute mostly to a shift in the composition of public firms and partly to heightened investor sentiment during the 2010s.
 </div>
