@@ -40,7 +40,7 @@ Using a novel measure of exposure to federal regulations, we study the impact of
  
 #### *How Well Do Financial Covenants Detect Distress?* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>
 <div align="justify"> 
-We find that lenders today rely on less restrictive financial covenants than 20 years ago, driven by a sharp decline in the use of balance sheet-based covenants that is not accompanied by a decrease in cash-flow based covenants. To understand this trend, we develop a novel measure of ex-ante covenant quality based on the ability to discriminate between distressed and non-distressed borrowers. Our evidence suggests that the shift from balance sheet to cash flow covenants enabled lenders to rely on fewer, but higher quality, covenants that better discriminate between borrowers and substantially reduce the expected number of false positive violations.
+We evaluate the ability of financial covenants to differentiate between distressed and non-distressed borrowers by estimating Receiver Operatic Characteristic (ROC) curves for common covenant packages. We find that lenders today rely on less restrictive financial covenants than 20 years ago, driven by a shift in the composition of borrowers and a sharp decline in the use of balance sheet-based covenants. Our evidence suggests that the shift from balance sheet to cash flow covenants enabled lenders to rely on fewer, but higher quality, covenants that better detect distress and substantially reduce the expected number of false positive violations.
 </div>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
