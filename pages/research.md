@@ -28,7 +28,7 @@ We examine the impact of creditor control rights on corporate acquisitions. Near
 
 ### <u>WORKING PAPERS<u>
 
-#### *[A Culture of Discrimination: Evidence From Civil Rights Litigation Against U.S. Corporations]({{ BASE_PATH}}/pages/culture_discrimination_20240207.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
+#### *[Workplace Discrimination Lawsuits Against U.S. Public Corporations]({{ BASE_PATH}}/pages/corporate_discrimination_20240430.pdf)* – with <a href="https://business.fsu.edu/person/casey-dougal">Casey Dougal</a> and <a href="https://business.fsu.edu/person/irena-hutton">Irena Hutton</a>
 <div align="justify"> 
 Between 1992 and 2018, U.S. public corporations faced over 36,000 workplace discrimination lawsuits in federal court. Litigation frequency differs widely across firms and regions, correlates with local attitudes toward race and gender, and varies with shocks to cultural tolerance of misconduct. Studying exogenous shifts in competition and financial constraints, we find no evidence that economic forces provide a source of discipline. Consequences are small: shareholder value drops by $1 million around the typical lawsuit, with declining effects for persistent offenders. We conclude that the incidence of workplace discrimination is largely determined by employees’ cultural norms, rather than firms’ economic environment.
 </div>
