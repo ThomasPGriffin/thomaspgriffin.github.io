@@ -10,7 +10,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
     <div class="row-fluid">
         <div class="span5">
-            Assistant Professor of Finance<br/>
+            The Kenneth ’84 and Pamela Roessler Assistant Professor of Finance<br/>
             Villanova School of Business<br/>
             Villanova University<br/>
             Email: thomas.griffin@villanova.edu<br/>
@@ -27,9 +27,9 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 ---
 <div align="justify"> 
     
-<p>I am currently the Kenneth ’84 and Pamela Roessler Assistant Professor of Finance at Villanova University. In Fall 2022, I was on sabbatical from Villanova and served as a Visiting Research Scholar at the University of Virginia, McIntire School of Commerce. I research issues in empirical corporate finance, with a particular interest in financial contracting and corporate governance. My papers in this area study the evolution of corporate loan covenants over the past two decades and examine how lenders use contractual rights to influence firm outcomes. </p>
+<p>I am currently The Kenneth ’84 and Pamela Roessler Assistant Professor of Finance at Villanova University. In Fall 2022, I was on sabbatical from Villanova and served as a Visiting Research Scholar at the University of Virginia, McIntire School of Commerce. I research issues in empirical corporate finance, with a particular interest in financial contracting and corporate governance. My papers in this area study the evolution of corporate loan covenants over the past two decades and examine how lenders use contractual rights to influence firm outcomes. </p>
 
-<p>My work has been published in leading academic journals, including the <i>Journal of Finance</i>, <i>Review of Financial Studies</i>, and <i>Journal of Financial and Quantitative Analysis</i>, and presented at selective conferences, such as <i>AFA</i>, <i>WFA</i>, <i>EFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
+<p>My work has been published in leading academic journals, including the <i>Journal of Finance</i>, <i>Review of Financial Studies</i>, and <i>Journal of Financial and Quantitative Analysis</i>, and presented at selective conferences, such as <i>AFA</i>, <i>WFA</i>, <i>EFA</i>, <i>SFS Cavalcade</i>, <i>FIRS</i>, <i>the Harvard-Wharton Insolvency and Restructuring Conference</i>, the <i>Washington University in St. Louis Corporate Finance Conference</i>, the <i>Texas A&M Young Scholars Finance Consortium</i>, and the <i>Drexel University Corporate Governance Conference</i>. It also has been featured on <i>Columbia Law School’s Blue Sky Blog</i> and the <i>Harvard Law School Program on Corporate Governance and Financial Regulation</i>.</p>
 
 <p>If you would like to discuss corporate debt research and current events, or collaborate on a project, please contact me at thomas.griffin@villanova.edu.</p>
 
