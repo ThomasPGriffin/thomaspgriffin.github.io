@@ -12,7 +12,6 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
         <div class="span5">
             The Kenneth ’84 and Pamela Roessler Assistant Professor of Finance<br/>
             Villanova School of Business, Villanova University<br/>
-            <br/>
             Email: thomas.griffin@villanova.edu<br/>
        </div>
        
