@@ -32,8 +32,6 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 <p>Professor Griffin received a B.A. in Economics from Villanova University and a Ph.D. in Finance from Drexel University. In addition to his faculty position at VSB, Tom served as a Visiting Research Scholar at the University of Virginia, McIntire School of Commerce in Fall 2022.</p>
 
-<p>If you would like to discuss corporate debt research and current events, or collaborate on a project, please contact me at thomas.griffin@villanova.edu.</p>
-
 </div>
 ---
 <div class="navbar">
