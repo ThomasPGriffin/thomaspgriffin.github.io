@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Tom Griffin
-description: Tom Griffin is an Assistant Professor of Finance at Villanova University
+description: Tom Griffin is an Associate Professor of Finance at Villanova University
 keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 ---
@@ -10,7 +10,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
     <div class="row-fluid">
         <div class="span5">
-            The Kenneth ’84 and Pamela Roessler Assistant Professor of Finance<br/>
+            Associate Professor of Finance<br/>
             Villanova School of Business, Villanova University<br/>
             Email: thomas.griffin@villanova.edu<br/>
        </div>
@@ -26,7 +26,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 ---
 <div align="justify"> 
     
-<p>Tom Griffin is currently The Kenneth ’84 and Pamela Roessler Assistant Professor of Finance at the Villanova School of Business (VSB). He specializes in corporate finance and restructuring. Professor Griffin teaches undergraduate and MBA courses on corporate valuation and developed the curriculum for VSB’s Investment Banking Academy, which prepares students for the competitive recruitment process at premier investment banks. He also serves as the faculty advisor for VSB’s Mergers & Acquisitions (M&A) Society, which equips students with skills to be successful in investment banking and related fields. </p>
+<p>Tom Griffin is a tenured Associate Professor of Finance at the Villanova School of Business (VSB). He specializes in corporate finance and restructuring. Professor Griffin teaches undergraduate and MBA courses on corporate valuation and developed the curriculum for VSB’s Investment Banking Academy, which prepares students for the competitive recruitment process at premier investment banks. He also serves as the faculty advisor for VSB’s Mergers & Acquisitions (M&A) Society, which equips students with skills to be successful in investment banking and related fields. </p>
 
 <p>Professor Griffin researches issues in corporate finance, with a particular interest in credit markets, M&A, and corporate governance. His articles on the design and renegotiation of corporate loan covenants have been published in leading academic journals, including the <i>Journal of Finance</i> and <i>Review of Financial Studies</i>, and presented at selective conferences hosted by the American Finance Association, European Finance Association, and Western Finance Association. Tom’s research has also been presented at regulatory agencies, such as the Federal Reserve and Securities and Exchange Commission, and cited in testimony to the U.S. House Committee on Financial Services about the emerging risks of leveraged lending. </p>
 
