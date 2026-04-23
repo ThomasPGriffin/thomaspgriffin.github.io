@@ -6,12 +6,12 @@ description: Tom Griffin's research
 
 ### <u>PUBLICATIONS<u>
 
-#### *[Losing Control? The Two-Decade Decline in Loan Covenant Violations]({{ BASE_PATH}}/pages/violTrend_20230915.pdf)* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>. 2024. <b><i>Journal of Finance</i></b> Forthcoming.
+#### *<a href="https://doi.org/10.1111/jofi.70005">Losing Control? The Two-Decade Decline in Loan Covenant Violations</a>* – with <a href="https://sites.google.com/view/gregnini/home">Greg Nini</a> and <a href="https://www.commerce.virginia.edu/faculty/smith">David Smith</a>. 2026. <b><i>Journal of Finance</i></b> 81(1): 371-412.
 <div align="justify"> 
 The annual proportion of U.S. public firms that reported a financial covenant violation fell roughly 70% between 1997 and 2019. To understand this trend, we develop an estimable model of covenant design that depends on the ability to discriminate between distressed and non-distressed borrowers and the relative costs associated with screening incorrectly. We find the drop in violations is best explained by an increased willingness to forego early detection of distressed borrowers in exchange for fewer inconsequential violations, which we attribute mostly to a shift in the composition of public firms and partly to heightened investor sentiment during the 2010s.
 </div>
 
-#### *<a href="https://doi.org/10.1017/S0022109023001424">Where Have All the IPOs Gone? Trade Liberalization and the Changing Nature of U.S. Corporations</a>*. 2023. <b><i>Journal of Financial and Quantitative Analysis</i></b> Forthcoming.
+#### *<a href="https://doi.org/10.1017/S0022109023001424">Where Have All the IPOs Gone? Trade Liberalization and the Changing Nature of U.S. Corporations</a>*. 2025. <b><i>Journal of Financial and Quantitative Analysis</i></b> 60(2): 974-1013.
 <div align="justify"> 
 I show that a tariff policy change that increased trade with China led to a decline in U.S. public listing rates and elevated industry concentration. Consistent with heterogeneous firm models of trade, the shock impeded the entry and performance of small domestic manufacturers but did not adversely impact large multinationals. In addition, stock price reactions to the tariff policy change and threat of reversal imply that trade liberalization creates or destroys value depending on firm size. These findings suggest that recent trends in the U.S. public equity market are driven, in part, by fundamental changes in the global competitive landscape.
 </div>
