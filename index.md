@@ -30,7 +30,7 @@ keywords: Tom, Thomas, Griffin, Finance, PhD, Drexel, Villanova, Professor
 
 <p>Professor Griffin researches issues in corporate finance, with a particular interest in credit markets, M&A, and corporate governance. His articles on the design and renegotiation of corporate loan covenants have been published in leading academic journals, including the <i>Journal of Finance</i> and <i>Review of Financial Studies</i>, and presented at selective conferences hosted by the American Finance Association, European Finance Association, and Western Finance Association. Tom’s research has also been presented at regulatory agencies, such as the Federal Reserve and Securities and Exchange Commission, and cited in testimony to the U.S. House Committee on Financial Services about the emerging risks of leveraged lending. </p>
 
-<p>Professor Griffin received a B.A. in Economics from Villanova University and a Ph.D. in Finance from Drexel University. In addition to his faculty position at VSB, Tom served as a Visiting Research Scholar at the University of Virginia, McIntire School of Commerce in Fall 2022.</p>
+<p>Professor Griffin received a B.A. in Economics from Villanova University and a Ph.D. in Finance from Drexel University. In addition to his faculty position at VSB, Tom currently serves as an advisor to the International Commission for Economic Affairs of the Order of Saint Augustine and previously was a Visiting Research Scholar at the University of Virginia, McIntire School of Commerce.</p>
 
 </div>
 ---
